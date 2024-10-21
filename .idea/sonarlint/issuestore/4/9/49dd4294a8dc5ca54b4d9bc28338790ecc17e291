@@ -1,0 +1,11 @@
+
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øüğüıÿÿÿÿ8­µìıª2J$22d9ec06-b024-418c-8539-abb1a73ea5ba
+l	java:S106"+Replace this use of System.out by a logger.(Ô¡ôD8®µìıª2J$78e304e8-bd59-41e5-96c3-7d5cdb58ebbf
+	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‡å¶8¯µìıª2J$0f9ce26f-5a58-4735-96fd-096316e680da
+m	java:S106""+Replace this use of System.out by a logger.(»ßÕÓ8¯µìıª2J$aca67f66-a01b-4ca2-ae8f-26f2f975234f
+	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñü×8°µìıª2J$381e6a46-5076-4202-ae86-9ed245e20ed7
+r	java:S106&"+Replace this use of System.out by a logger.(×…±ıÿÿÿÿ8°µìıª2J$08d95bc7-621a-4145-8f1c-e654342ac1ad
+•	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ë¸œûÿÿÿÿ8°µìıª2J$a3f9eab3-9ee0-4de0-abac-2bf2a205c548
+r	java:S106*"+Replace this use of System.out by a logger.(±øì’şÿÿÿÿ8±µìıª2J$6d9bf5ec-0d30-45d6-b224-59c7ff0e0d57
+‡
+java:S33580"DExtract this nested ternary operation into an independent statement.(µËŸÙ8²µìıª2J$de766656-3d27-44b1-a513-659e24cb606f
